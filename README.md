@@ -1,2 +1,2 @@
  
-Generate handwritten digits from random noise 
+Generate handwritten digits from a random noise 
